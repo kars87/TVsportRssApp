@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Litt rå-styling for å sikre at bakgrunnen forblir mørk mens ting laster */
+body {
+  background-color: #0c0c0e;
+  color: #f4f4f5;
+  margin: 0;
+}
