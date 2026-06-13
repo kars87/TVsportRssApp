@@ -1,8 +1,6 @@
 # Live Sports Event Monitor
 
-Et lynraskt, fullstack dashboard bygget for sanntidsaggregering og overvåkning av sportsnyheter og hendelser fra **TV 2** og **NRK**. 
-
-Systemet henter data asynkront i bakgrunnen på serveren og dytter oppdateringer umiddelbart ut til nettleseren ved hjelp av en reaktiv strøm-arkitektur.
+En test med simpel forntend(kun for test). Ideen og appen er kun en ombygging av et større nyhetsprosjekt som jeg har gående lokalt på server hjemme. 
 
 ---
 
